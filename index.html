@@ -7,7 +7,7 @@
        </head>
       
        <body>
-           <h1></h1>
+           <h1>test</h1>
            
            
            </const>
@@ -15,15 +15,28 @@
             <img src="starshape1.png" alt="Description of Image" height="6">       
         </a>
 
+
+
    
-        </const>
+       </const>
         <a href="https://soundcloud.com/thelordoffools">
         <img src="starshape1.png" alt="Description of Image" height="6">       
         </a>
-
-
-        <const>
-
         </const>
        </body>
    </html>
+
+
+   <const STAR_IMAGE_PATH = "starshape1.png";
+const LINKS = ["./test1.html", "https://soundcloud.com/thelordoffools"];
+
+function makeStar(url, parent) {
+    const anchor = document.createElement("a");<
+    anchor.href = url;
+    const img = document.createElement("img");
+    img.src = STAR_IMAGE_PATH;
+    anchor.appendChild(img);
+}
+
+const body = document.body;
+LINKS.forEach(l => <makeStar(l, body));
