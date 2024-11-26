@@ -1,4 +1,5 @@
-# First Half 
+# FIRST HALF
+
 I am starting this documentaion by stating that I immediately have to lower the scope of this project. By this point, I was hoping to be able to add the click and drag movement feature, as well as placing the points (stars) in seemingly random positions.
 
 As of right now, I only have a handful of functioning points, all lined up next to each other. A large portion of why this is taking so long is that there aren't great resources for specifically making a website that you can click and drag to move around within, only resources for dragging objects. 
@@ -24,5 +25,12 @@ Lastly, adding audio to certain links should be simple, as I have more than enou
 - MOVEMENT FEATURE 
 - The Sphere
 
+## BUGS
+
+There is a test for the glow feature that just sits in the middle of my website even though there is no code for it anymore, I need to fix that.
+
+There are little lines inbetween each point right now that I need to find a way to remove. Maybe once I place each image on the sphere that will go away. 
+
+# OVERALL
 
 Overall, I do not project this website to be a fully-fledged repository by the deadline; rather a skeleton that I can build up from while I develop my audiovisual / narrative project further. 
