@@ -4,39 +4,36 @@
        <head>
            <title>starscream terminus</title>
            <link rel="stylesheet" href="styles.css">
+           <style>
+            .imgcolor{
+                filter:hue-rotate(90deg);
+            }
+           </style>
        </head>
       
        <body>
            <h1>test</h1>
            
            
-           </const>
-           <a href="./test1.html">
-            <img src="starshape1.png" alt="Description of Image" height="6">       
-        </a>
-
-
-
-   
-       </const>
-        <a href="https://soundcloud.com/thelordoffools">
+     
+        </const>
+        <a href="./test1.html">
         <img src="starshape1.png" alt="Description of Image" height="6">       
         </a>
+
+        </const>
+        <a href="https://soundcloud.com/thelordoffools">
+        <img src="starshape1.png" alt="Description of Image" height="10" class="imgcolor">       
+        </a>
+    
+       </const>
+       <a href="">
+       <img src="starshape1.png" alt="Description of Image" height="6">       
+       </a>
+
+
+
+
         </const>
        </body>
    </html>
-
-
-   <const STAR_IMAGE_PATH = "starshape1.png";
-const LINKS = ["./test1.html", "https://soundcloud.com/thelordoffools"];
-
-function makeStar(url, parent) {
-    const anchor = document.createElement("a");<
-    anchor.href = url;
-    const img = document.createElement("img");
-    img.src = STAR_IMAGE_PATH;
-    anchor.appendChild(img);
-}
-
-const body = document.body;
-LINKS.forEach(l => <makeStar(l, body));
