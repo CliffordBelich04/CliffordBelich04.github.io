@@ -10,4 +10,368 @@ body {
     background-color: #000;
   }
   
+ .Irm {
+  position: absolute;
+  top: 60px;
+  left: 80px;
+ }
+
+ .eos {
+  position: absolute;
+  top: 70px;
+  left: 200;
+ }
+
+ .bip {
+  position: absolute;
+  top: 80px;
+  left: 90px;
+ }
+
+ .mtu {
+  position: absolute;
+  top: 300px;
+  left: 367px;
+ }
+
+ .yer {
+position: absolute;
+top: 147px;
+left: 58px;
+ }
+
+ .bea {
+  position: absolute;
+  top: 65px;
+  left: 111px;
+ }
+
+ .ang {
+  position: absolute;
+  top: 267px;
+  left: 142px;
+ }
+
+ .sin {
+  position: absolute;
+  top: 99px;
+  left: 69px;
+ }
  
+ .man {
+  position: absolute;
+  top: 253px;
+  left: 49px;
+ }
+
+ .win {
+  position: absolute;
+  top: 373px;
+  left: 11px;
+ }
+
+ .lyr {
+  position: absolute;
+  top: 74px;
+  left: 395px;
+ }
+
+ .dea {
+position: absolute;
+top: 201px;
+left: 109px;
+ }
+
+.bli {
+position: absolute;
+top: 37px;
+left: 72px;
+}
+
+.mol {
+position: absolute;
+top: 189px;
+left: 208px;
+}
+
+.wor {
+position: absolute;
+top: 394px;
+left: 186px;
+}
+
+.lit {
+position: absolute;
+top: 95px;
+left: 272px;
+}
+
+.foa {
+position: absolute;
+top: 178px;
+left: 289px;
+}
+
+.edg {
+position: absolute;
+top: 29px;
+left: 96px;
+}
+
+.emp {
+position: absolute;
+top: 179px;
+left: 98px;
+}
+
+.asd {
+position: absolute;
+top: 305px;
+left: 203px;
+}
+
+.thu {
+position: absolute;
+top: 260px;
+left: 290px;
+}
+
+.sol { 
+position: absolute;
+top: 302px;
+left: 168px;
+}
+
+.core {
+position: absolute;
+top: 390px;
+left: 289px;
+}
+
+.oil {
+position: absolute;
+top: 149px;
+left: 189px;
+}
+
+.oft {
+position: absolute;
+top: 233px;
+left: 243px;
+}
+
+.wom {
+position: absolute;
+top: 355px;
+left: 155px;
+}
+
+.sul {
+position: absolute;
+top: 57px;
+left: 257px;
+}
+
+.fol {
+position: absolute;
+top: 222px;
+left: 22px;
+}
+
+.car {
+position: absolute;
+top: 112px;
+left: 367px;
+}
+
+.sel {
+position: absolute;
+top: 356px;
+left: 256px;
+}
+
+.tur {
+position: absolute;
+top: 49px;
+left: 339px;
+}
+
+.iam {
+position: absolute;
+top: 11px;
+left: 389px;
+}
+
+.litw {
+position: absolute;
+top: 92px;
+left: 168px;
+}
+
+.wal {
+position: absolute;
+top: 298px;
+left: 56px;
+}
+
+.all {
+position: absolute;
+top: 34px;
+left: 176px;
+}
+
+.iwi {
+position: absolute;
+top: 134px;
+left: 218px;
+}
+
+.myo {
+position: absolute;
+top: 333px;
+left: 287px;
+}
+
+.ash {
+position: absolute;
+top: 16px;
+left: 316px;
+}
+
+.not {
+position: absolute;
+top: 235px;
+left: 335px;
+}
+
+.sif {
+position: absolute;
+top: 67px;
+left: 189px;
+}
+
+.xea {
+position: absolute;
+top: 178px;
+left: 235px;
+}
+
+.uns {
+position: absolute;
+top: 231px;
+left: 148px;
+}
+
+.cag {
+position: absolute;
+top: 149px;
+left: 317px;
+}
+
+.soi {
+position: absolute;
+top: 209px;
+left: 387px;
+}
+
+.irr {
+position: absolute;
+top: 275px;
+left: 259px;
+}
+
+.sti {
+position: absolute;
+top: 120px;
+left: 98px;
+}
+
+.fro {
+position: absolute; 
+top: 185px;
+left: 367px;
+}
+
+.mole {
+position: absolute;
+top: 316px;
+left: 107px;
+}
+
+.bir {
+position: absolute;
+top: 170px;
+left: 137px;
+}
+
+.slo {
+position: absolute;
+top: 202px;
+left: 305px;
+}
+
+.cea {
+position: absolute;
+top: 170px;
+left: 38px;
+}
+
+.gut {
+position: absolute;
+top: 152px;
+left: 89px;
+}
+
+.cas {
+position: absolute; 
+top: 378px;
+left: 332px;
+}
+
+.ply {
+position: absolute;
+top: 214px;
+left: 168px;
+}
+
+.dlo {
+position: absolute;
+top: 450px;
+left: 62px;
+}
+
+.sep {
+position: absolute;
+top: 276px;
+left: 428px;
+}
+
+.end {
+position: absolute;
+top: 22px;
+left: 237px;
+}
+
+.dec {
+position: absolute;
+top: 367px;
+left: 86px;
+}
+
+.bre {
+position: absolute;
+top: 346px;
+left: 399px;
+}
+
+.dru {
+position: absolute;
+top: 21px;
+left: 34px;
+}
+
+.worth {
+position: absolute;
+top: 421px;
+left: 249px;
+}
