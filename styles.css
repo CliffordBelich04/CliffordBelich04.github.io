@@ -6,7 +6,11 @@ body {
   }
 
   body {
-    cursor: url("testcursor.png"), auto;
+    cursor: auto url("realcursor.png"); 
+    cursor: pointer url("realcursor.png");
+    cursor: active url("realcursor.png");
+
+
   }
 
   body 

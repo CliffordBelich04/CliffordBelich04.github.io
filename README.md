@@ -34,3 +34,34 @@ There are little lines inbetween each point right now that I need to find a way 
 # OVERALL
 
 Overall, I do not project this website to be a fully-fledged repository by the deadline; rather a skeleton that I can build up from while I develop my audiovisual / narrative project further. 
+
+
+# SECOND HALF
+
+I realized that I needed to scale down this project in order to be successful in my other classes as larger and larger projects were being assigned. The bulk of the work now consisted of repetitve file creation/ renaming so that the style sheet and the main page could properly communicate. A large amount of time was spent looking for each file/ redownloading files that I could not locate on my drive. Additionally, navigating the files in Visual Studio Code has started to become tedious due to the amount of files present. I imagine using folders would remedy this, but everytime I attemped, a new, more frustrating issue would occur. 
+
+## WHAT HAS BEEN COMPLETED 
+
+- There is now a subtle glow around each point
+- Each link autoplays a piece of music
+- Points are distributed relatively randomly
+- Titles appear when point is hovered over
+- Framework for expanding
+
+## WHAT I WAS NOT ABLE TO ACHIEVE 
+
+- The movement features proved to be extremely frustrating to even find resources on, let alone attempt to implement. It would be doable, but this class is only 2 credits out of my 20 total this semester, so I decided that I shouldn't sink too much time into this.
+- Audio for hovering over each star: This ended up being something I forgot about attempting to do until the last hours of working on it.
+- Links that affect each other: This would be something I would get to once most other features were fully implemented.
+- Narrative aspects: Was not as much of priority as figuring out the rest of the functions of the site.
+
+## BUGS
+
+- As of writing this, a test cursor sometimes appers
+- The main page's audio works about 30% of the time
+- Titles will occasionally not load
+- The glow feature does not seem to be working in the ways expected, and is faulty to a point of not being able to tell what the issue really is.
+
+## GOALS 
+ 
+ This site is something that I want to continue to chip away at over time. I would like to achieve everything that I had conceptualized for the proposal, but with my current skill set, it was not as reasonable a goal as I had thought. Overall, I am glad that this project has helped me realize where I need to focus my skills, as well as it has given me an excuse to work on more forms of media that relate to my project.
