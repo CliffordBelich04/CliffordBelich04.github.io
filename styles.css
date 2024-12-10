@@ -5,11 +5,14 @@ body {
     color: rgb(255, 255, 255);
   }
 
-  body {
-    cursor: url('iliancursor.png'), default;
+  body 
+  html {
+    cursor: url('iliancursor.png'), auto;
   }
 
-  body {
+  body 
+  
+  {
     margin: 0;
     background-color: #000000;
   }
